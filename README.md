@@ -4,7 +4,7 @@ The main difference is in saliency maps, we are just shown the relevant pixels i
 We can generate saliency maps by getting the gradient of the loss with respect to the image pixels. 
 This means that changes in certain pixels that strongly affect the loss will be shown brightly in our saliency map.
 
-Input:
+Input: ااااااااااااااااااااا
 
 ![image](https://user-images.githubusercontent.com/64538407/112746145-cdd3e280-8fb5-11eb-9678-8745f2ea32d3.png)
 
